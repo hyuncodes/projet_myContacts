@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Env files
+.env
+.env.local
+
+# Node
+node_modules/
+dist/
+build/
+
+# Coverage / Test
+coverage/
+
+# JetBrains (추가로 세부 무시)
+.idea/shelf/
+.idea/workspace.xml
+.idea/httpRequests/
+.idea/dataSources/
+.idea/dataSources.local.xml
