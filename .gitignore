@@ -9,7 +9,7 @@
 *.log
 
 # Env files
-.env
+server/.env
 .env.local
 
 # Node
